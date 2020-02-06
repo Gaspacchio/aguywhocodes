@@ -1,5 +1,6 @@
 # Video files
 *.mp4
 
-# Photoshop files
+# Photoshop and Gimp files
 *.psd
+*.xcf
